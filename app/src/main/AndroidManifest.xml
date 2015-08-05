@@ -40,6 +40,10 @@
             android:name=".Introduction"
             android:label="@string/title_activity_introduction" >
         </activity>
+        <activity
+            android:name=".OBD"
+            android:label="@string/title_activity_obd" >
+        </activity>
     </application>
 
 </manifest>
